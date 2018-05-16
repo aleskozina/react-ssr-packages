@@ -1,13 +1,12 @@
 {
   "name": "@aleskozina/react-ssr-packages",
   "version": "1.0.0",
-  "description": "custom ts linter",
-  "main": "index.js",
+  "description": "lerna package",
   "scripts": {
     "lerna": "lerna"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Ales Kozina",
+  "license": "MIT",
   "dependencies": {
     "lerna": "^2.11.0"
   }

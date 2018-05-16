@@ -1,0 +1,11 @@
+{
+  "name": "@aleskozina/sasslint-config",
+  "version": "1.0.0",
+  "description": "arbnb sass linter",
+  "main": "config.yml",
+  "author": "Ales Kozina",
+  "license": "MIT",
+  "dependencies": {
+    "sass-lint": "^1.12.1"
+  }
+}

@@ -1,13 +1,13 @@
 {
   "name": "@aleskozina/tslint-config",
   "version": "1.0.2",
-  "description": "custom ts linter",
+  "description": "airbnb ts linter",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git@gitlab.com:ales.kozina/react-ssr-packages.git"
   },
-  "author": "Ales Kozina <kozina.ales@gmail.com>",
+  "author": "Ales Kozina",
   "license": "MIT",
   "dependencies": {
     "tslint": "^5.10.0",
