@@ -1,6 +1,6 @@
 {
   "name": "@vertil/tslint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "custom ts linter",
   "main": "index.js",
   "repository": {
