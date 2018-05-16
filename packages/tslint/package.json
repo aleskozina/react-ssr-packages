@@ -1,6 +1,6 @@
 {
   "name": "@aleskozina/tslint",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "custom ts linter",
   "main": "index.js",
   "repository": {
