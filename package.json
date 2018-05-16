@@ -1,0 +1,14 @@
+{
+  "name": "@vertil/react-ssr-packages",
+  "version": "1.0.0",
+  "description": "custom ts linter",
+  "main": "index.js",
+  "scripts": {
+    "lerna": "lerna"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lerna": "^2.11.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@vertil/tslint",
+  "version": "1.0.0",
+  "description": "custom ts linter",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "tbd"
+  },
+  "author": "Ales Kozina <kozina.ales@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "tslint": "^5.10.0",
+    "tslint-config-airbnb": "^5.8.0"
+  },
+  "peerDependencies": {
+    "typescript": "^2.8.3"
+  }
+}
