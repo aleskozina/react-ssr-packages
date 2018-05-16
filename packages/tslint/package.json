@@ -8,7 +8,7 @@
     "url": "git@gitlab.com:ales.kozina/react-ssr-packages.git"
   },
   "author": "Ales Kozina <kozina.ales@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "tslint": "^5.10.0",
     "tslint-config-airbnb": "^5.8.0"
