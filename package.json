@@ -1,5 +1,5 @@
 {
-  "name": "@vertil/react-ssr-packages",
+  "name": "@aleskozina/react-ssr-packages",
   "version": "1.0.0",
   "description": "custom ts linter",
   "main": "index.js",

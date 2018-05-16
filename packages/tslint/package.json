@@ -1,11 +1,11 @@
 {
-  "name": "@vertil/tslint",
+  "name": "@aleskozina/tslint",
   "version": "1.0.1",
   "description": "custom ts linter",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "tbd"
+    "url": "git@gitlab.com:ales.kozina/react-ssr-packages.git"
   },
   "author": "Ales Kozina <kozina.ales@gmail.com>",
   "license": "ISC",
