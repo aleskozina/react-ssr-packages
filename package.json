@@ -1,9 +1,13 @@
 {
-  "name": "@aleskozina/react-ssr-packages",
+  "name": "react-ssr-packages",
   "version": "1.0.0",
   "description": "lerna package",
   "scripts": {
     "lerna": "lerna"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aleskozina/react-ssr-packages.git"
   },
   "author": "Ales Kozina",
   "license": "MIT",
